@@ -137,3 +137,35 @@ Stack: HTML, CSS, JavaScript
 
 ---
 
+## Courses
+
+- [Rolling Scopes School](https://rs.school/)
+  - This platform introduced me to deadlines and the importance of properly allocating my time, some useful practices in development, and of course a good community
+  - Current courses:
+    - JavaScript/Front-end 2022Q1
+  - Completed courses:
+    - JS/FE Pre-School 2022
+- [The Odin Project](https://www.theodinproject.com)
+  - This course introduced me very well to HTML, CSS, JavaScript, NodeJS, Webpack, React, Git, Github
+  - Current courses:
+    - Full Stack JavaScript
+  - Completed courses:
+    - Foundations
+- [freeCodeCamp](https://www.freecodecamp.org/)
+  - This platform introduced me to Responsive Design, JavaScript, React, Redux, SASS, jQuery, Bootstrap
+  - Current courses:
+    - Front End Development Libraries
+    - Data Visualization
+    - Back End Development and API
+  - Completed courses:
+    - Responsive Web Design
+    - JavaScript Algorithms and Data Structures
+- [Hypeskill](https://hyperskill.org)
+  - This platform introduced me to Java
+  - Completed courses:
+    - Java for Beginners
+    - Java Developer
+    - Java Desktop Application Developer
+    - Java Backend Developer
+    - Java Core
+
