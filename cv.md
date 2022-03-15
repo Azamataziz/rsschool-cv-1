@@ -47,3 +47,93 @@ function whatTimeIsIt(angle) {
 }
 ```
 
+## Portfolio
+
+### Rock Papper Scissors
+
+![Rock Papper Scissors](./assets/projects/rock-paper-scissors.png)
+
+A small application for playing rock-paper-scissors. It is possible to choose a game against a computer that has 3 difficulty levels.
+
+Stack: HTML, CSS, JavaScript
+
+[Website](https://totgg.github.io/odin-rock-paper-scissors/)
+[Source](https://github.com/totgg/odin-rock-paper-scissors/)
+
+---
+
+### Etch a Sketch
+
+![Etch a Sketch](./assets/projects/etch-a-sketch.png)
+
+An application for pixel drawing! There are two tools, a brush and an eraser, the ability to adjust their size, the choice of color for drawing and other settings. Canvas was used for drawing, but it was not done so well.
+
+Stack: HTML, CSS, JavaScript
+
+[Website](https://totgg.github.io/odin-etch-a-sketch/)
+[Source](https://github.com/totgg/odin-etch-a-sketch/)
+
+---
+
+### Tic Tac Toe
+
+![Tic Tac Toe](./assets/projects/tic-tac-toe.png)
+
+A well-known game from childhood, tic-tac-toe! You can play against the computer with 4 different difficulty levels. Easy, medium, difficult and impossible! You can even force two computers to play against each other. The minimax algorithm was implemented for the computer.
+
+Stack: HTML, CSS, JavaScript
+
+[Website](https://totgg.github.io/odin-tic-tac-toe/)
+[Source](https://github.com/totgg/odin-tic-tac-toe/)
+
+---
+
+### Books Library
+
+![Books Library](./assets/projects/books-library.png)
+
+This is a small personal library of books for the user. You can add categories, books and even delete them. Have you lost something? Use the search! Find the added book by its title, author, or genre.
+
+Stack: HTML, CSS, JavaScript
+
+[Website](https://totgg.github.io/odin-books-library/)
+[Source](https://github.com/totgg/odin-books-library/)
+
+---
+
+### Eco Sounds
+
+![Eco Sounds](./assets/projects/eco-sounds.png)
+
+A small website for relaxation with birdsong and the possibility of choosing birds.
+
+Stack: HTML, CSS, JavaScript
+
+[Website](https://rolling-scopes-school.github.io/totgg-JSFEPRESCHOOL/eco-sounds/)
+
+---
+
+### Random Jokes
+
+![Random Jokes](./assets/projects/random-jokes.png)
+
+The application is based on the [Chuck Norris API](https://api.chucknorris.io/), you can get random quotes, random quotes from a category or find a quote by keywords.
+
+Stack: HTML, CSS, JavaScript
+
+[Website](https://rolling-scopes-school.github.io/totgg-JSFEPRESCHOOL/random-jokes/)
+
+---
+
+### Tic Tac Toe - 2
+
+![Tic Tac Toe](./assets/projects/tic-tac-toe-2.png)
+
+There are no significant differences from the previous project, on the contrary, some functionality has been cut.
+
+Stack: HTML, CSS, JavaScript
+
+[Website](https://rolling-scopes-school.github.io/totgg-JSFEPRESCHOOL/tic-tac-toe/)
+
+---
+
