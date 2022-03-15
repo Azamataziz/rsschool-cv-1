@@ -169,3 +169,10 @@ Stack: HTML, CSS, JavaScript
     - Java Backend Developer
     - Java Core
 
+## Language
+
+| Language / Framework | Level           |
+| --                   | --              |
+| Russian              | Native          |
+| English              | Beginner        |
+
