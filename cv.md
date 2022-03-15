@@ -176,3 +176,8 @@ Stack: HTML, CSS, JavaScript
 | Russian              | Native          |
 | English              | Beginner        |
 
+## Contacts
+
+| Discord  | Telegram |
+| --       | --       |
+| [Fyur#9245](https://discordapp.com/users/862343180246319144) | [@dear_lime](https://t.me/dear_lime) |
